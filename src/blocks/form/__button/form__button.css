@@ -15,6 +15,7 @@
 @media screen and (min-width: 786px) {
 
     .form__button {
+        margin: 10px auto 20px auto;
         font-size: 14px;
         letter-spacing: normal;
     }
@@ -24,10 +25,10 @@
 @media screen and (min-width: 1440px) {
 
     .form__button {
+        margin: 15px auto 20px auto;
         font-size: 30px;
         width: 553px;
         height: 80px;
-        margin: 15px auto 0 auto;
     }
     
 }

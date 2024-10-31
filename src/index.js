@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 // Подключаем стили
 import './index.css';
+=======
+// Подключаем CSS
+import './pages/index.css';
+>>>>>>> Stashed changes
 
 // Находим элементы на странице
 const form = document.querySelector('.form');
