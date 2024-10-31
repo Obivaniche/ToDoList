@@ -1,0 +1,10 @@
+.button_success {
+    width: 20px;
+    height: 20px;
+    background-image: url(../../../images/icon_check.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+    padding: 0;
+}

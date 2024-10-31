@@ -1,0 +1,26 @@
+.form__title {
+    margin: 30px auto 0 auto;
+    padding: 0;
+    font-family: "HelveticaNeue";
+    font-size: 16px;
+    font-weight: 500;
+    color: #151515;
+}
+
+@media screen and (min-width: 786px) {
+
+    .form__title {
+        margin: 20px auto 0 auto;
+        font-size: 20px;
+    }
+    
+}
+
+@media screen and (min-width: 1440px) {
+
+    .form__title {
+        margin: 50px auto 0 auto;
+        font-size: 32px;
+    }
+    
+}

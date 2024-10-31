@@ -1,0 +1,148 @@
+@font-face {
+    font-family: 'Bebasneue';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/Bebasneue/bebasneueregular.ttf);
+    src: url(../fonts/Bebasneue/bebasneueregular.woff);
+    src: url(../fonts/Bebasneue/bebasneueregular.woff2);
+    src: url(../fonts/Bebasneue/BebasNeueCyrillicRegular.ttf);
+}
+
+@font-face {
+    font-family: 'Bebasneue';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/Bebasneue/bebasneuebold.ttf);
+    src: url(../fonts/Bebasneue/bebasneuebold.woff);
+    src: url(../fonts/Bebasneue/bebasneuebold.woff2);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-Thin.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-UltraLight.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-Light.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-Black.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/HelveticaNeue/HelveticaNeueCyr-Roman.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Museo';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../fonts/Museo/MuseoSansCyrl-300.eot);
+    src: url(../fonts/Museo/MuseoSansCyrl-300.ttf);
+    src: url(../fonts/Museo/MuseoSansCyrl-300.woff);
+}
+
+@font-face {
+    font-family: 'Museo';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(../fonts/Museo/MuseoSansCyrl-500.eot);
+    src: url(../fonts/Museo/MuseoSansCyrl-500.ttf);
+    src: url(../fonts/Museo/MuseoSansCyrl-500.woff);
+}
+
+@font-face {
+    font-family: 'Museo';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/Museo/MuseoSansCyrl-700.eot);
+    src: url(../fonts/Museo/MuseoSansCyrl-700.ttf);
+    src: url(../fonts/Museo/MuseoSansCyrl-700.woff);
+}
+
+@font-face {
+    font-family: 'Museo';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../fonts/Museo/MuseoSansCyrl-900.eot);
+    src: url(../fonts/Museo/MuseoSansCyrl-900.ttf);
+    src: url(../fonts/Museo/MuseoSansCyrl-900.woff);
+}

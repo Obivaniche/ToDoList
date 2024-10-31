@@ -1,0 +1,9 @@
+.list {
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 40px auto 0 auto;
+}

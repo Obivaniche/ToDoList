@@ -1,0 +1,27 @@
+.form__container {
+    margin: 35px auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 785px;
+    background-color: #F5C618;
+}
+
+@media screen and (min-width: 786px) {
+
+    .form__container {
+        margin: 40px auto 0 auto;
+        max-width: 1439px;
+    }
+    
+}
+
+@media screen and (min-width: 1440px) {
+
+    .form__container {
+        margin: 90px auto 0 auto;
+        max-width: 100%;
+    }
+    
+}

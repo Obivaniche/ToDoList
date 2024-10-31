@@ -1,0 +1,27 @@
+.form__approv {
+    margin: 15px auto 25px auto;
+    padding: 0;
+    width: 225px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 8px;
+    color: #151515;
+}
+
+@media screen and (min-width: 786px) {
+
+    .form__approv {
+        margin: 10px auto 29px auto;
+    }
+    
+}
+
+@media screen and (min-width: 786px) {
+
+    .form__approv {
+        font-size: 16px;
+        margin: 25px auto 60px auto;
+        width: 567px;
+    }
+    
+}

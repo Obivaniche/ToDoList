@@ -1,0 +1,26 @@
+.button {
+    border-radius: 10px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+}
+
+@media screen and (min-width: 786px) {
+
+    .button {
+        border-radius: 6px;
+    }
+    
+}
+
+@media screen and (min-width: 1440px) {
+
+    .fbutton {
+        border-radius: 10px;
+    }
+    
+}
+
+.button:hover {
+    cursor: pointer;
+}
