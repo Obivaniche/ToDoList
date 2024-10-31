@@ -1,5 +1,5 @@
 // Подключаем стили
-import 'pages/index.css';
+import './pages/index.css';
 
 // Находим элементы на странице
 const form = document.querySelector('.form');
