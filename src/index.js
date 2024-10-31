@@ -1,3 +1,6 @@
+// Подключаем стили
+import './index.css';
+
 // Находим элементы на странице
 const form = document.querySelector('.form');
 const input = document.querySelector('.form__field');
